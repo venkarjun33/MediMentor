@@ -61,7 +61,7 @@ MediMentor is deployed as a web-based chatbot using Gradio.
 - Example questions and disclaimers
 - Supports CPU and CUDA
 
----
+
 
 ## 🚀 Getting Started
 
@@ -70,19 +70,20 @@ MediMentor is deployed as a web-based chatbot using Gradio.
 ```bash
 pip install gradio transformers
 ```
----
+
+
 ## 🌐 Online Access
 You can try the live demo or view the model on Hugging Face here:
 🔗 https://huggingface.co/Venkatesh20/healthbot
----
+
 
 ## UI Preview
 ![image](https://github.com/user-attachments/assets/0eda7283-1d3e-4271-837b-d0ff2babbcf0)
----
+
 
 ## ⚠️ Disclaimer
 This chatbot is for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a licensed physician for any health-related concerns.
----
+
 
 ## 👤 Author
 Venkateshwaran S V 
