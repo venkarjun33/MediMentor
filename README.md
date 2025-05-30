@@ -60,7 +60,7 @@ MediMentor is deployed as a web-based chatbot using Gradio.
 - Styled chat interface
 - Example questions and disclaimers
 - Supports CPU and CUDA
-
+---
 
 
 ## 🚀 Getting Started
